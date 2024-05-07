@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer dan Friendclass 3",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer dan Friendclass 4", "Pointer dan Friendclass 4\Pointer dan Friendclass 4.vcxproj", "{DE3DDA18-1695-4726-805D-5BA2DF718EEE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer dan Friendclass 5", "Pointer dan Friendclass 5\Pointer dan Friendclass 5.vcxproj", "{56D599B7-FA3A-426E-836E-BE56BD0C1344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{DE3DDA18-1695-4726-805D-5BA2DF718EEE}.Release|x64.Build.0 = Release|x64
 		{DE3DDA18-1695-4726-805D-5BA2DF718EEE}.Release|x86.ActiveCfg = Release|Win32
 		{DE3DDA18-1695-4726-805D-5BA2DF718EEE}.Release|x86.Build.0 = Release|Win32
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Debug|x64.ActiveCfg = Debug|x64
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Debug|x64.Build.0 = Debug|x64
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Debug|x86.ActiveCfg = Debug|Win32
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Debug|x86.Build.0 = Debug|Win32
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Release|x64.ActiveCfg = Release|x64
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Release|x64.Build.0 = Release|x64
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Release|x86.ActiveCfg = Release|Win32
+		{56D599B7-FA3A-426E-836E-BE56BD0C1344}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
